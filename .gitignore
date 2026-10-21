@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Compiler and linker output
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.recipe
+*.tlog
+*.lastbuildstate
+*.log
+
+# Precompiled headers and IntelliSense
+*.pch
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+
+# Generated payload output
+generated_payload.h
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
